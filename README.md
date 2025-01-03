@@ -163,26 +163,6 @@ The library includes robust error handling for common issues:
 - Requires LMAOBOX environment
 - Limited to local filesystem access
 
-## Contributing
-
-Feel free to submit issues and pull requests for:
-- Bug fixes
-- Feature additions
-- Documentation improvements
-- Performance optimizations
-
-## License
-
-[Insert your chosen license here]
-
 ## Credits
 
-[Your name/handle here] - Library author
-
-## Version History
-
-- 1.0.0: Initial release
-  - Basic VGUI parsing
-  - Preprocessing support
-  - Property merging
-  - File system utilities
+https://github.com/dresswithpockets/Vgui - For inspiration
